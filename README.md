@@ -17,8 +17,11 @@ Skills: Angular / JS / HTML / CSS / Java / Python
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akhileshappala)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akhilesh-appala/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akhilesh_ssa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](akhileshappala.github.tio)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=akhileshappala)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala)](https://github.com/akhileshappala/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshappala&show_icons=true)  
 
-<img src = "https://github-readme-stats.vercel.app/api?username=akhileshappala&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akhileshappala)  
+
