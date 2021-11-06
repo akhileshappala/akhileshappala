@@ -19,7 +19,7 @@ Skills: Angular / JS / HTML / CSS / Java / Python
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=akhileshappala)](https://github.com/ryo-ma/github-profile-trophy) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshappala&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala)](https://github.com/akhileshappala/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshappala&show_icons=true)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akhileshappala)  
 
