@@ -6,7 +6,7 @@ I worked on couple of computer vision and Machine learning projects.
 
 You can check out some of the  works I published and learnings in [my blog](https://akhileshappala.wordpress.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Akhilesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-appala/) [![Mail Badge](https://img.shields.io/badge/-@akhilesh_ssa-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/akhilesh_ssa) [![Mail Badge](https://img.shields.io/badge/-akhileshappala11-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akhileshappala11@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Akhilesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-appala/) [![Mail Badge](https://img.shields.io/badge/akhilesh_ssa-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/akhilesh_ssa) [![Mail Badge](https://img.shields.io/badge/-akhileshappala11-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akhileshappala11@gmail.com)
 
 Skills: Angular / Python / JavaScript / HTML / CSS / Java 
 
