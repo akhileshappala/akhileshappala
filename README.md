@@ -23,7 +23,7 @@ Skills: Angular / JS / HTML / CSS / Java / Python
 (https://github.com/akhileshappala/github-readme-stats) -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshappala&show_icons=true)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala&theme=merko&hide=php,css&layout=compact)](https://github.com/akhileshappala/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala&theme=merko&hide=php&layout=compact)](https://github.com/akhileshappala/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akhileshappala)  
-
+https://camo.githubusercontent.com/6d43ac97f4e583063d729b9eb9baf834b017a3850340d7d7cdd4581d151fe2fe/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d536f757261764a6f6861722673686f775f69636f6e733d74727565267468656d653d6d65726b6f26636f756e745f707269766174653d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565
