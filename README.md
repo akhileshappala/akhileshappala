@@ -38,6 +38,10 @@ You can check out some of the  works I published and learnings in [my blog](http
     <td>Web‐Technologies</td>
     <td>HTML5, CSS3, Bootstrap, Core Java, RESTful API, MVC </td>
   </tr>
+  <tr>
+    <td>IoT‐Technologies</td>
+    <td>Node-red, Experienced on Network and serial connectivity</td>
+  </tr>
     <tr>
     <td>Tools</td>
     <td>OpenCV, PyTorch, Git, Jupiter‐notebook</td>
