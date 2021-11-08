@@ -9,18 +9,35 @@ You can check out some of the  works I published and learnings in [my blog](http
 [![Linkedin Badge](https://img.shields.io/badge/-Akhilesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-appala/) [![Mail Badge](https://img.shields.io/badge/akhilesh_ssa-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/akhilesh_ssa) [![Mail Badge](https://img.shields.io/badge/-akhileshappala11-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akhileshappala11@gmail.com)
 
 <h2><u>Skills</h2>
-
-<b>Frameworks</b> --> Angular, JavaSpringBoot, ElectronJS
-
-<b>Programming and scripting</b> --> C, Java, Python, JavaScript, TypeScript
-
-<b>Database Technologies</b> --> MYSQL, Mongo DB
-
-<b>Web‐Technologies</b>  --> HTML5, CSS3, Bootstrap, Core Java, RESTful API, MVC
-
-<b>Tools</b> --> OpenCV, PyTorch, Git, Jupiter‐notebook
-
-<b>Devops</b>  --> Jenkins, AWS services, Docker
+  
+  
+  
+  <table style="width:100%">
+  <tr>
+    <td>Frameworks</td>
+    <td>Angular, JavaSpringBoot, ElectronJS</td>
+  </tr>
+  <tr>
+    <td>Programming and scripting</td>
+    <td>C, Java, Python, JavaScript, TypeScript</td>
+  </tr>
+    <tr>
+    <td>Database Technologies</td>
+    <td>MYSQL, Mongo DB</td>
+  </tr>
+    <tr>
+    <td>Web‐Technologies</td>
+    <td>HTML5, CSS3, Bootstrap, Core Java, RESTful API, MVC </td>
+  </tr>
+    <tr>
+    <td>Tools</td>
+    <td>OpenCV, PyTorch, Git, Jupiter‐notebook</td>
+  </tr>
+    <tr>
+    <td>Devops</td>
+    <td>Jenkins, AWS services, Docker</td>
+  </tr>
+</table>
 
 - 🔭 I’m currently working at @[Thermo Fisher Scientific](https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific).
 - 🌱 You can find some interesting projects on computer vision and Machine learning in my profile.
