@@ -16,6 +16,22 @@ You can check out some of the  works I published and learnings in [my blog](http
 - Currently Exploring and learning AI.
 - ⚡ Fun fact: Currently taking sip of 2*10^1024+1 cup of coffee.
 
+<h2><u>starred Projects</h2>
+  <h4> Full-stack related</h4>
+
+Concept  | Commit Link/ Code Changes
+-------- | -----
+1.[Angular Project](https://github.com/akhileshappala/complete-Angular-project)   | Concept wise code changes and samples for implementation.
+2.[NodeJS project](https://github.com/akhileshappala/NodeJS-MongoDb-project) | A NodeJS Project covering most of the concepts with concept wise commits
+3.[Bootstrap Project](https://github.com/akhileshappala/BootStrap4-project) | A bootstrap based project with all types of code samples
+
+  <h4> Machine learning</h4>
+  
+Concept  | Commit Link/ Code Changes
+-------- | -----
+1.[Twitter setimental Analysis](https://github.com/akhileshappala/Twitter-sentimental-analysis) | To annalyse tweets which are toxic or not, using different approaches.
+
+
 
 <h2><u>Skills</h2>
   
@@ -61,3 +77,4 @@ You can check out some of the  works I published and learnings in [my blog](http
 (https://github.com/akhileshappala/github-readme-stats) -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshappala&show_icons=true&theme=merko) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala&theme=merko&hide=php&layout=compact)](https://github.com/akhileshappala/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akhileshappala)  
+
