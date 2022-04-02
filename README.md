@@ -21,9 +21,9 @@ You can check out some of the  works I published and learnings in [my blog](http
 
 Concept  | Commit Link/ Code Changes
 -------- | -----
-1.[Angular Project](https://github.com/akhileshappala/complete-Angular-project)   | Concept wise code changes and samples for implementation.
+1.[Angular Project](https://github.com/akhileshappala/complete-Angular-project)   | An Angular Project covering Concept wise code changes and samples for implementation.
 2.[NodeJS project](https://github.com/akhileshappala/NodeJS-MongoDb-project) | A NodeJS Project covering most of the concepts with concept wise commits
-3.[Bootstrap Project](https://github.com/akhileshappala/BootStrap4-project) | A bootstrap based project with all types of code samples
+3.[Bootstrap Project](https://github.com/akhileshappala/BootStrap4-project) | A bootstrap based project with most of the types of code samples.
 
   <h4> Machine learning</h4>
   
@@ -31,6 +31,12 @@ Concept  | Commit Link/ Code Changes
 -------- | -----
 1.[Twitter setimental Analysis](https://github.com/akhileshappala/Twitter-sentimental-analysis) | To annalyse tweets which are toxic or not, using different approaches.
 
+
+  <h4>Problem solving</h4>
+  
+Concept  | Commit Link/ Code Changes
+-------- | -----
+1.[Concept wise Coding problems in Java](https://github.com/akhileshappala/concept-wise-coding-problems) | Difficulty wise coding problems separated with data structures.
 
 
 <h2><u>Skills</h2>
