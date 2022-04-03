@@ -30,6 +30,8 @@ Concept  | Commit Link/ Code Changes
 Concept  | Commit Link/ Code Changes
 -------- | -----
 1.[Twitter setimental Analysis](https://github.com/akhileshappala/Twitter-sentimental-analysis) | To annalyse tweets which are toxic or not, using different approaches.
+2.[Flight Delay prediction](https://github.com/akhileshappala/flight-delays) | To predict flight delay based on past data set.
+  
 
 
   <h4>Problem solving</h4>
