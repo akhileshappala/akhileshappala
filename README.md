@@ -11,7 +11,7 @@ You can check out some of the  works I published and learnings in [my blog](http
 
 
 - 🔭 I’m currently working at @[Thermo Fisher Scientific](https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific).
-- 🌱 You can find some interesting projects on computer vision and Machine learning in my profile.
+- 🌱 You can find some interesting projects on Full-stack and Machine learning in my profile.
 - 👯 I’m looking to collaborate on Machine learning and open source projects.
 - Currently Exploring and learning AI.
 - ⚡ Fun fact: Currently taking sip of 2*10^1024+1 cup of coffee.
