@@ -25,12 +25,13 @@ Concept  | Commit Link/ Code Changes
 2.[NodeJS project](https://github.com/akhileshappala/NodeJS-MongoDb-project) | A NodeJS Project covering most of the concepts with concept wise commits
 3.[Bootstrap Project](https://github.com/akhileshappala/BootStrap4-project) | A bootstrap based project with most of the types of code samples.
 
-  <h4> Machine learning</h4>
+  <h4> Deep Learning / Machine learning  </h4>
   
 Concept  | Commit Link/ Code Changes
 -------- | -----
-1.[Twitter setimental Analysis](https://github.com/akhileshappala/Twitter-sentimental-analysis) | To annalyse tweets which are toxic or not, using different approaches.
-2.[Flight Delay prediction](https://github.com/akhileshappala/flight-delays) | To predict flight delay based on past data set.
+1.[Deep Learning Specialization](https://github.com/akhileshappala/Deep-learning-specialization) | Deep Learning course which starts from basics of Neural networks and Deep Leaning, Machine learing -- TODO - To be added other parts
+2.[Twitter setimental Analysis](https://github.com/akhileshappala/Twitter-sentimental-analysis) | To annalyse tweets which are toxic or not, using different approaches.
+3.[Flight Delay prediction](https://github.com/akhileshappala/flight-delays) | To predict flight delay based on past data set.
   
 
 
