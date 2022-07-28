@@ -16,30 +16,6 @@ You can check out some of the  works I published and learnings in [my blog](http
 - Currently Exploring and learning AI.
 - ⚡ Fun fact: Currently taking sip of 2*10^1024+1 cup of coffee.
 
-<h2><u>starred Projects</h2>
-  <h4> Full-stack related</h4>
-
-Concept  | Commit Link/ Code Changes
--------- | -----
-1.[Angular Project](https://github.com/akhileshappala/complete-Angular-project)   | An Angular Project covering Concept wise code changes and samples for implementation.
-2.[NodeJS project](https://github.com/akhileshappala/NodeJS-MongoDb-project) | A NodeJS Project covering most of the concepts with concept wise commits
-3.[Bootstrap Project](https://github.com/akhileshappala/BootStrap4-project) | A bootstrap based project with most of the types of code samples.
-
-  <h4> Deep Learning / Machine learning  </h4>
-  
-Concept  | Commit Link/ Code Changes
--------- | -----
-1.[Deep Learning Specialization](https://github.com/akhileshappala/Deep-learning-specialization) | Deep Learning course which starts from basics of Neural networks and Deep Leaning, Machine learing -- TODO - To be added other parts
-2.[Twitter setimental Analysis](https://github.com/akhileshappala/Twitter-sentimental-analysis) | To annalyse tweets which are toxic or not, using different approaches.
-3.[Flight Delay prediction](https://github.com/akhileshappala/flight-delays) | To predict flight delay based on past data set.
-  
-
-
-  <h4>Problem solving</h4>
-  
-Concept  | Commit Link/ Code Changes
--------- | -----
-1.[Concept wise Coding problems in Java](https://github.com/akhileshappala/concept-wise-coding-problems) | Difficulty wise coding problems separated with data structures.
 
 
 <h2><u>Skills</h2>
@@ -76,6 +52,34 @@ Concept  | Commit Link/ Code Changes
     <td>Jenkins, AWS services, Docker</td>
   </tr>
 </table>
+
+
+<h2><u>starred Projects</h2>
+  <h4> Full-stack related</h4>
+
+Concept  | Commit Link/ Code Changes
+-------- | -----
+1.[Angular Project](https://github.com/akhileshappala/complete-Angular-project)   | An Angular Project covering Concept wise code changes and samples for implementation.
+2.[NodeJS project](https://github.com/akhileshappala/NodeJS-MongoDb-project) | A NodeJS Project covering most of the concepts with concept wise commits
+3.[Bootstrap Project](https://github.com/akhileshappala/BootStrap4-project) | A bootstrap based project with most of the types of code samples.
+
+  <h4> Deep Learning / Machine learning  </h4>
+  
+Concept  | Commit Link/ Code Changes
+-------- | -----
+1.[Deep Learning Specialization](https://github.com/akhileshappala/Deep-learning-specialization) | Deep Learning course which starts from basics of Neural networks and Deep Leaning, Machine learing -- TODO - To be added other parts
+2.[Twitter setimental Analysis](https://github.com/akhileshappala/Twitter-sentimental-analysis) | To annalyse tweets which are toxic or not, using different approaches.
+3.[Flight Delay prediction](https://github.com/akhileshappala/flight-delays) | To predict flight delay based on past data set.
+  
+
+
+  <h4>Problem solving</h4>
+  
+Concept  | Commit Link/ Code Changes
+-------- | -----
+1.[Concept wise Coding problems in Java](https://github.com/akhileshappala/concept-wise-coding-problems) | Difficulty wise coding problems separated with data structures.
+
+
 
 <!-- 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akhileshappala)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akhilesh-appala/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akhilesh_ssa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](akhileshappala.github.tio)   -->
