@@ -57,11 +57,11 @@ You can check out some of the  works I published and learnings in [my blog](http
 
 Area  | Certificate link
 -------- | -----
-1.Google - Google Cloud Fundamentals: Core Infrastructure   | [View Certificate](https://www.coursera.org/account/accomplishments/verify/7NFFDZ7NA7GS)
-2.The Hong Kong University of Science and Technology - Front-End JavaScript Frameworks: Angular | [View Certificate](https://www.coursera.org/account/accomplishments/verify/5TCDQE34A5EZ)
-3.The Hong Kong University of Science and Technology - Front-End Web UI Frameworks and Tools: Bootstrap 4 | [View Certificate](https://www.coursera.org/account/accomplishments/verify/VE5KXWNTAL8V)
-4.University of Michigan - Interactivity with JavaScript | [View Certificate](https://www.coursera.org/account/accomplishments/verify/5TEVZ7QQHUQP)
-5.
+Google - Google Cloud Fundamentals: Core Infrastructure   | [View Certificate](https://www.coursera.org/account/accomplishments/verify/7NFFDZ7NA7GS)
+Deeplearning.AI - AI for Everyone | [View Certificate](https://www.coursera.org/account/accomplishments/verify/TN5P79UN8GXQ)
+The Hong Kong University of Science and Technology - Front-End JavaScript Frameworks: Angular | [View Certificate](https://www.coursera.org/account/accomplishments/verify/5TCDQE34A5EZ)
+The Hong Kong University of Science and Technology - Front-End Web UI Frameworks and Tools: Bootstrap 4 | [View Certificate](https://www.coursera.org/account/accomplishments/verify/VE5KXWNTAL8V)
+University of Michigan - Interactivity with JavaScript | [View Certificate](https://www.coursera.org/account/accomplishments/verify/5TEVZ7QQHUQP)
   
   
 <h2><u>starred Projects</h2>
