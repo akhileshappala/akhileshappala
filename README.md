@@ -9,7 +9,7 @@ You can check out some of the  works I published and learnings in [my blog](http
 [![Linkedin Badge](https://img.shields.io/badge/-Akhilesh-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-appala/) [![Mail Badge](https://img.shields.io/badge/akhilesh_ssa-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/akhilesh_ssa) [![Mail Badge](https://img.shields.io/badge/-akhileshappala11-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:akhileshappala11@gmail.com)
 
 
--  Currently Masters student at University of Colorado, Boulder, USA.
+-  Currently pursuing Masters in Computer Science at University of Colorado, Boulder, USA.
 - 🔭 I’m a Ex-employee at @[Thermo Fisher Scientific](https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific).
 - 🌱 You can find some interesting projects on Full-stack and Machine learning in my profile.
 - 👯 I’m looking to collaborate on Machine learning and open source projects.
