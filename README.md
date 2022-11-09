@@ -1,6 +1,7 @@
 ### Hola!! 👋, I'm [S.S Akhilesh Appala](https://akhileshappala.github.io/)
 #### Design and Developer
-I'm Akhilesh Appala from India, Professionally develop applications for [Thermo Fisher Scientific](https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific).
+I'm Akhilesh Appala from India, Currently pursuing my Masters in Computer Science at University of Colorado, Boulder. 
+Professional past, I developed applications for [Thermo Fisher Scientific](https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific).
 I do Full stack development using JS. I really enjoy learning languages and frameworks like Angular, Node-red(IOT technology), React, Springboot.
 I worked on couple of computer vision and Machine learning projects.
 
