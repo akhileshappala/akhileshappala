@@ -55,17 +55,6 @@ You can check out some of the  works I published and learnings in [my blog](http
   </tr>
 </table>
 
-<h2><u>Certifications</h2>
-
-Area  | Certificate link
--------- | -----
-Google - Google Cloud Fundamentals: Core Infrastructure   | [View Certificate](https://www.coursera.org/account/accomplishments/verify/7NFFDZ7NA7GS)
-Deeplearning.AI - AI for Everyone | [View Certificate](https://www.coursera.org/account/accomplishments/verify/TN5P79UN8GXQ)
-The Hong Kong University of Science and Technology - Front-End JavaScript Frameworks: Angular | [View Certificate](https://www.coursera.org/account/accomplishments/verify/5TCDQE34A5EZ)
-The Hong Kong University of Science and Technology - Front-End Web UI Frameworks and Tools: Bootstrap 4 | [View Certificate](https://www.coursera.org/account/accomplishments/verify/VE5KXWNTAL8V)
-University of Michigan - Interactivity with JavaScript | [View Certificate](https://www.coursera.org/account/accomplishments/verify/5TEVZ7QQHUQP)
-  
-  
 <h2><u>starred Projects</h2>
   <h4> Full-stack related</h4>
 
@@ -92,6 +81,17 @@ Concept  | Commit Link/ Code Changes
 1.[Concept wise Coding problems in Java](https://github.com/akhileshappala/concept-wise-coding-problems) | Difficulty wise coding problems separated with data structures.
 
 
+<h2><u>Certifications</h2>
+
+Area  | Certificate link
+-------- | -----
+Google - Google Cloud Fundamentals: Core Infrastructure   | [View Certificate](https://www.coursera.org/account/accomplishments/verify/7NFFDZ7NA7GS)
+Deeplearning.AI - AI for Everyone | [View Certificate](https://www.coursera.org/account/accomplishments/verify/TN5P79UN8GXQ)
+The Hong Kong University of Science and Technology - Front-End JavaScript Frameworks: Angular | [View Certificate](https://www.coursera.org/account/accomplishments/verify/5TCDQE34A5EZ)
+The Hong Kong University of Science and Technology - Front-End Web UI Frameworks and Tools: Bootstrap 4 | [View Certificate](https://www.coursera.org/account/accomplishments/verify/VE5KXWNTAL8V)
+University of Michigan - Interactivity with JavaScript | [View Certificate](https://www.coursera.org/account/accomplishments/verify/5TEVZ7QQHUQP)
+  
+  
 
 <!-- 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akhileshappala)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akhilesh-appala/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/akhilesh_ssa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](akhileshappala.github.tio)   -->
@@ -101,6 +101,8 @@ Concept  | Commit Link/ Code Changes
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala)] 
 (https://github.com/akhileshappala/github-readme-stats) -->
 ![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshappala&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala&layout=compact)](https://github.com/akhileshappala/github-readme-stats)
+  <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala&layout=compact)
+  <br>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akhileshappala)  
 
