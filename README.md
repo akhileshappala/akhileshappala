@@ -101,5 +101,6 @@ Concept  | Commit Link/ Code Changes
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala)] 
 (https://github.com/akhileshappala/github-readme-stats) -->
 ![Akhilesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhileshappala&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala&theme=merko&hide=php&layout=compact)](https://github.com/akhileshappala/github-readme-stats) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akhileshappala)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala&layout=compact)](https://github.com/akhileshappala/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akhileshappala)  
 
