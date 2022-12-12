@@ -64,7 +64,16 @@ Concept  | Commit Link/ Code Changes
 2.[NodeJS project](https://github.com/akhileshappala/NodeJS-MongoDb-project) | A NodeJS Project covering most of the concepts with concept wise commits
 3.[Bootstrap Project](https://github.com/akhileshappala/BootStrap4-project) | A bootstrap based project with most of the types of code samples.
 
-  <h4> Deep Learning / Machine learning  </h4>
+
+<h4> Data science / Mining project </h4>
+  
+Concept  | Commit Link/ Code Changes
+-------- | -----
+1.[US forest fire prediciton](https://github.com/akhileshappala/Masters-Datamining-project) | US forest fire prediction based on the regions wise models and classification.
+  
+
+  
+<h4> Deep Learning / Machine learning  </h4>
   
 Concept  | Commit Link/ Code Changes
 -------- | -----
