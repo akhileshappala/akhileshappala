@@ -35,7 +35,7 @@ You can check out some of the  works I published and learnings in [my blog](http
   <table style="width:100%">
   <tr>
     <td>Frameworks</td>
-    <td>Angular9,ReactJS, AngularJS, JavaSpringBoot, ElectronJS</td>
+    <td>Angular9, ReactJS, AngularJS, JavaSpringBoot, ElectronJS</td>
   </tr>
   <tr>
     <td>Programming and scripting</td>
