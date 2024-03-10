@@ -34,12 +34,12 @@ You can check out some of the  works I published and learnings in [my blog](http
   
   <table style="width:100%">
   <tr>
-    <td> Front-end Frameworks</td>
-    <td>Angular 7-11, React, AngularJS, VueJS, NextJS, ElectronJS</td>
+    <td> Front-end Development</td>
+    <td>Angular 7-11, React, AngularJS, VueJS, ElectronJS, Tailwind </td>
   </tr>
     <tr>
-    <td> Back-end Frameworks</td>
-    <td>NodeJS, Java SpringBoot</td></td>
+    <td> Back-end Development</td>
+    <td>NextJS, NodeJS, Java SpringBoot</td></td>
   </tr>
   <tr>
     <td>Programming and scripting</td>
