@@ -2,9 +2,9 @@
 #### Design and Developer
 I'm Akhilesh Appala from India, Currently pursuing my Masters in Computer Science at [University of Colorado, Boulder](https://www.colorado.edu/). 
 Before this, I developed applications for [Thermo Fisher Scientific](https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific).
-I do Full stack development using JS. I really enjoy working with JS related frameworks like Angular,React,NodeJs, Node-red(IOT technology) and java Springboot too.
+I do Full-stack development using JS. I enjoy working with JS-related frameworks like Angular, React, NodeJs, Node-red(IOT technology), and Java Springboot too.
 
-I worked on couple of computer vision and Machine learning projects.
+I worked on a couple of computer vision and Machine learning projects.
 
 You can check out some of the  works I published and learnings in [my blog](https://akhileshappala.wordpress.com)
 
@@ -19,12 +19,12 @@ You can check out some of the  works I published and learnings in [my blog](http
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/akhilesh-appala#gh-dark-mode-only)
 
 
--  Currently pursuing Masters in Computer Science at University of Colorado, Boulder, USA.
+-  Currently pursuing a Master's in Computer Science at the University of Colorado, Boulder. Graduating in May 2024
 - 🔭 I’m a Ex-employee at @[Thermo Fisher Scientific](https://en.wikipedia.org/wiki/Thermo_Fisher_Scientific).
 - 🌱 You can find some interesting projects on Full-stack and Machine learning in my profile.
 - 👯 I’m looking to collaborate on Machine learning and open source projects.
 - Currently Exploring and learning AI.
-- ⚡ Fun fact: Currently taking sip of 2*10^1024+1 cup of coffee.
+- ⚡ Fun fact: Currently taking a sip of 2*10^1024+1 cup of coffee.
 
 
 
@@ -34,8 +34,12 @@ You can check out some of the  works I published and learnings in [my blog](http
   
   <table style="width:100%">
   <tr>
-    <td>Frameworks</td>
-    <td>Angular9, ReactJS, AngularJS, JavaSpringBoot, ElectronJS</td>
+    <td> Front-end Frameworks</td>
+    <td>Angular 7-11, React, AngularJS, VueJS, NextJS, ElectronJS</td>
+  </tr>
+    <tr>
+    <td> Back-end Frameworks</td>
+    <td>NodeJS, Java SpringBoot</td></td>
   </tr>
   <tr>
     <td>Programming and scripting</td>
@@ -47,11 +51,11 @@ You can check out some of the  works I published and learnings in [my blog](http
   </tr>
     <tr>
     <td>Web‐Technologies</td>
-    <td>HTML5, CSS3, Bootstrap, Core Java, RESTful API, MVC </td>
+    <td>HTML5, CSS3, Bootstrap, REST API </td>
   </tr>
   <tr>
     <td>IoT‐Technologies</td>
-    <td>Node-red, Experienced on Network and serial connectivity</td>
+    <td>Node-red, Experienced in Network and serial connectivity</td>
   </tr>
     <tr>
     <td>Tools</td>
@@ -68,9 +72,9 @@ You can check out some of the  works I published and learnings in [my blog](http
 
 Concept  | Commit Link/ Code Changes
 -------- | -----
-1.[Angular Project](https://github.com/akhileshappala/complete-Angular-project)   | An Angular Project covering Concept wise code changes and samples for implementation.
-2.[NodeJS project](https://github.com/akhileshappala/NodeJS-MongoDb-project) | A NodeJS Project covering most of the concepts with concept wise commits
-3.[Bootstrap Project](https://github.com/akhileshappala/BootStrap4-project) | A bootstrap based project with most of the types of code samples.
+1.[Angular Project](https://github.com/akhileshappala/complete-Angular-project)   | An Angular Project covering concept-wise code changes and samples for implementation.
+2.[NodeJS project](https://github.com/akhileshappala/NodeJS-MongoDb-project) | A NodeJS Project covering most of the concepts with concept-wise commits
+3.[Bootstrap Project](https://github.com/akhileshappala/BootStrap4-project) | A bootstrap-based project with most of the types of code samples.
 4.[React Project](https://github.com/akhileshappala/React-project)  | In progress
 
 
@@ -78,7 +82,7 @@ Concept  | Commit Link/ Code Changes
   
 Concept  | Commit Link/ Code Changes
 -------- | -----
-1.[US forest fire prediciton](https://github.com/akhileshappala/Masters-Datamining-project) | US forest fire prediction based on the regions wise models and classification.
+1.[US forest fire prediction](https://github.com/akhileshappala/Masters-Datamining-project) | US forest fire prediction based on the regions wise models and classification.
   
 
   
@@ -86,8 +90,8 @@ Concept  | Commit Link/ Code Changes
   
 Concept  | Commit Link/ Code Changes
 -------- | -----
-1.[Deep Learning Specialization](https://github.com/akhileshappala/Deep-learning-specialization) | Deep Learning course which starts from basics of Neural networks and Deep Leaning, Machine learing -- TODO - To be added other parts
-2.[Twitter setimental Analysis](https://github.com/akhileshappala/Twitter-sentimental-analysis) | To annalyse tweets which are toxic or not, using different approaches.
+1.[Deep Learning Specialization](https://github.com/akhileshappala/Deep-learning-specialization) | Deep Learning course which starts from basics of Neural networks and Deep learning, Machine learning -- TODO - To be added other parts
+2.[Twitter sentimental Analysis](https://github.com/akhileshappala/Twitter-sentimental-analysis) | To analyze tweets that are toxic or not, using different approaches.
 3.[Flight Delay prediction](https://github.com/akhileshappala/flight-delays) | To predict flight delay based on past data set.
   
 
