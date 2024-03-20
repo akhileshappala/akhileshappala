@@ -126,5 +126,4 @@ University of Michigan - Interactivity with JavaScript | [View Certificate](http
   <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akhileshappala&layout=compact)
   <br>
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akhileshappala)  
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=akhileshappala&theme=dark)](https://git.io/streak-stats)
